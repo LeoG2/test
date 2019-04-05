@@ -1,0 +1,16 @@
+git init to initiate
+git add *.c to specify files wana track
+git add le.txt to add file
+git push origin master  will push
+:gooooooddddd
+git commit -m 'initial project version' to commit
+
+leonardo test for github
+This is the verison created for text
+:i
+this is the new line
+:i
+anothe line
+:q
+:x
+
