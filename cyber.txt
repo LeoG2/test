@@ -1,0 +1,3 @@
+:i
+This is another example on how to be done. I hope this time I have it right
+:x
